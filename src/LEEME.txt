@@ -1,0 +1,10 @@
+No va a funcionar el pytest, y la agenda tendrá fallos
+Mi intencion en principio era no entregarlo porque me estaba costando mucho la asignatura, pero decidí tomar el reto de hacer que 
+al menos la agenda funcione correctamente, no busco aprobar este trabajo, simplemente quería entregar algo para ponerme un reto.
+
+Esto es lo que he podido hacer en el tiempo que queda, sin usar código de GTP (aunque si que lo he usado para documentar), y buscando ayuda en
+foros como stackoverflow.
+
+La agenda al menos funciona en su mayoría.
+
+P.D: No busco aprobar la agenda, pero un par de puntos no me importaríam /j.
